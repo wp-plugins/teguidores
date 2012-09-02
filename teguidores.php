@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Teguidores
-Plugin URI: http://www.widgetifyr.com
+Plugin URI: http://wordpring.com
 Description: Muestra de forma visual tus seguidores de Twitter, Facebook y RSS
 Author: Miguel
 Version: 1.1
-Author URI: http://twitter.com/xuom
+Author URI: http://twitter.com/Rdemiguel_
 
 */
 
