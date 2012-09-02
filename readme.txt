@@ -1,9 +1,11 @@
 === Plugin Name ===
 Contributors: Rdemiguel
+Donate Link: Gracias, no hace falta.
 Tags: social, twitter, facebook, rss feed
 Requires at least: 3.0
 Tested up to: 3.4.1
 Stable tag: 1.0
+License: GpLv2
 
 Teguidores es un plugin que te permite mostrar de forma visual tu número de seguidores en Twitter, Facebook y RSS.
 
@@ -58,3 +60,19 @@ visual.php is commented, but if you don know how to modify the archive, follow t
 	1. In line 7 change "Tu-usuario-de-Twitter" for your Twitter Username.
 	2. In line 14 change "Tu-ID-de-Facebook" for your facebook fan page ID
 	3. In line 21 change "Feedburner" for your feedburner username.
+
+== Changelog == 
+
+1.0 subida de plugin, correcion de bugs
+
+In English
+
+1.0 upload the plugin, fixed some bugs
+
+== Screenshots ==
+
+1. /tags/1.0/screenshot-1.png
+
+== Upgrade Notice ==
+
+Nada por ahora.
