@@ -4,7 +4,7 @@ Donate link: http://example.com/
 Tags: social, twitter, facebook, rss feed, counter, text
 Requires at least: 3.0+
 Tested up to: 3.4.1
-Stable tag: 
+Stable tag: /trunk/
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Thanks: Minenage, Comunidad de www.skylium.com
