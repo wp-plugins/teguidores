@@ -7,7 +7,7 @@ Tested up to: 3.4.1
 Stable tag: /trunk/
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Thanks: Minenage, Comunidad de www.skylium.com
+
 
 
 == Description ==
@@ -62,6 +62,9 @@ visual.php is commented, but if you don know how to modify the archive, follow t
 
 == Changelog ==
 
+= 1.2 =
+Fixed a bug
+
 = 1.1 = 
 * Fixed some bug
 
@@ -69,8 +72,7 @@ visual.php is commented, but if you don know how to modify the archive, follow t
 * Upload the plugin
 
 
-== Upgrade Notice ==
 
-= 1.0 =
-Fixed a bug.
-
+== Thanks ==
+1. Minenage
+2. Comunidad de www.skylium.com
