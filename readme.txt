@@ -57,7 +57,7 @@ visual.php is commented, but if you don know how to modify the archive, follow t
 
 == Screenshots ==
 
-1. /tags/4.3/screenshot-1.png/
+1. Widget
 
 
 == Changelog ==
